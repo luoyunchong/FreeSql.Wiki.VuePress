@@ -2,6 +2,7 @@
 
 - http://freesql.net
 - https://luoyunchong.github.io/FreeSql.Wiki.VuePress/
+- https://igeekfan.gitee.io/FreeSql.Wiki.VuePress/
 
 ## run
 ```
