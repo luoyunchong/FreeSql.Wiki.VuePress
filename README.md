@@ -1,7 +1,7 @@
 # FreeSql Docs
 
 - http://freesql.net
-
+- https://luoyunchong.github.io/FreeSql.Wiki.VuePress/
 
 ## run
 ```
