@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/',
+    base: '/FreeSql.Wiki.VuePress/',
     locales: {
         '/': {
             lang: 'zh-CN',
